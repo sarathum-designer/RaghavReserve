@@ -15,6 +15,15 @@ Marketing and launch site for **Raghav Reserve**, a set of 2 & 3 BHK residences 
 
 HTML · CSS · JavaScript · Vercel
 
+## Project structure
+
+```text
+index.html      Page markup
+css/styles.css  Styles
+js/script.js    Hero slider, amenity lightbox, menu and enquiry forms
+assets/         Images (renders, floor plans, logos)
+```
+
 ## Run locally
 
 Open `index.html` in a browser, or serve it:
